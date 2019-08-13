@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - My_class",
+            "request": "launch",
+            "mainClass": "My_class"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - method",
+            "request": "launch",
+            "mainClass": "method"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JWEOuterClass",
+            "request": "launch",
+            "mainClass": "JWEOuterClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fornumber_yj",
+            "request": "launch",
+            "mainClass": "fornumber_yj"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FruitExample",
+            "request": "launch",
+            "mainClass": "FruitExample"
+        }
+    ]
+}
