@@ -2,6 +2,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "CodeLens (Launch) - Dog",
             "request": "launch",
             "mainClass": "Dog"
@@ -11,6 +12,35 @@
             "name": "CodeLens (Launch) - FruitEle",
             "request": "launch",
             "mainClass": "FruitEle"
+=======
+            "name": "CodeLens (Launch) - My_class",
+            "request": "launch",
+            "mainClass": "My_class"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - method",
+            "request": "launch",
+            "mainClass": "method"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JWEOuterClass",
+            "request": "launch",
+            "mainClass": "JWEOuterClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fornumber_yj",
+            "request": "launch",
+            "mainClass": "fornumber_yj"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FruitExample",
+            "request": "launch",
+            "mainClass": "FruitExample"
+>>>>>>> 116fc5157fe42333889f8146e433954681882aa6
         }
     ]
 }
